@@ -4,4 +4,4 @@
 
 [![asciicast](https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC.png)](https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC)
 
-<a href="https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC"><img src="https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC".png width="836"/></a>
+<a href="https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC"><img src="https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC".png width="350"/></a>
