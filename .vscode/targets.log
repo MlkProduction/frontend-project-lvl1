@@ -6,8 +6,9 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
+ 
 
-# Make data base, printed on Mon Jun 20 09:24:04 2022
+# Make data base, printed on Tue Jun 21 04:46:29 2022
 
 # Variables
 
@@ -36,7 +37,7 @@ MAKEFILE_LIST :=  Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/gd/k2gksd5s3qj4ft8tg32xrn8r0000gn/T/vscode-ipc-a957b46a-aa65-46a9-a9d8-de76ae9a0142.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/gd/k2gksd5s3qj4ft8tg32xrn8r0000gn/T/vscode-ipc-47db7808-a2bf-4ad6-a0ba-c53a50f23bfc.sock
 # environment
 VSCODE_CWD = /
 # environment
@@ -176,11 +177,19 @@ brain-games:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-06-19 14:08:23
+#  Last modified 2022-06-20 09:30:58
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
+
+brain-calc:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 12):
+	node bin/brain-calc.js
+	
 
 # Not a target:
 .DEFAULT:
@@ -221,7 +230,7 @@ install:
 	
 
 # files hash-table stats:
-# Load=9/1024=1%, Rehash=0, Collisions=0/21=0%
+# Load=10/1024=1%, Rehash=0, Collisions=0/22=0%
 # VPATH Search Paths
 
 # No `vpath' search paths.
@@ -233,7 +242,7 @@ install:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Mon Jun 20 09:24:04 2022
+# Finished Make data base on Tue Jun 21 04:46:29 2022
 
  
 make: *** No rule to make target `all'.  Stop.
