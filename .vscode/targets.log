@@ -6,9 +6,8 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
- 
 
-# Make data base, printed on Tue Jun 21 04:46:29 2022
+# Make data base, printed on Thu Jun 23 10:26:51 2022
 
 # Variables
 
@@ -37,7 +36,7 @@ MAKEFILE_LIST :=  Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/gd/k2gksd5s3qj4ft8tg32xrn8r0000gn/T/vscode-ipc-47db7808-a2bf-4ad6-a0ba-c53a50f23bfc.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/gd/k2gksd5s3qj4ft8tg32xrn8r0000gn/T/vscode-ipc-eacaa1c6-dfc1-4260-9379-122dfc0e9bec.sock
 # environment
 VSCODE_CWD = /
 # environment
@@ -49,7 +48,7 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.L8vPY5C1yN/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.sWMiAMxTvj/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -131,7 +130,7 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 833
+VSCODE_PID = 798
 # variable set hash-table stats:
 # Load=60/1024=6%, Rehash=0, Collisions=1/84=1%
 
@@ -141,9 +140,9 @@ VSCODE_PID = 833
 
 # Directories
 
-# . (device 16777220, inode 12919433537): 16 files, no impossibilities.
+# . (device 16777220, inode 12919433537): 14 files, no impossibilities.
 
-# 16 files, no impossibilities in 1 directories.
+# 14 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -242,7 +241,7 @@ install:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Tue Jun 21 04:46:29 2022
+# Finished Make data base on Thu Jun 23 10:26:51 2022
 
  
 make: *** No rule to make target `all'.  Stop.
