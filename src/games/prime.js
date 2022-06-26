@@ -28,7 +28,7 @@ console.log(`Question: ${randomNumber}`);
 
 if (prime === answerUser) {
     user += 1;
-    console.log('Correct');
+    console.log('Correct!');
 
 }
 else {
