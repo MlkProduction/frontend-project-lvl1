@@ -1,11 +1,7 @@
 import { getRandomInt }  from '../randomnum.js';
 import gameLogic from '../index.js';
-
-
 const description = 'Find the greatest common divisor of given numbers.';
-   
     const gcd = (x, y) => {
-
       if (y > x) {
         return gcd(y, x);
       }
@@ -14,7 +10,6 @@ const description = 'Find the greatest common divisor of given numbers.';
       }
       return gcd(y, x % y);
     };
-
     export const gamesEngine = () => { 
       const randomNumber1 = getRandomInt(0, 11);
       const randomNumber2 = getRandomInt(0, 11);
