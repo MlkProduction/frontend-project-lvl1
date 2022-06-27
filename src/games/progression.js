@@ -21,7 +21,7 @@ export const gamesEngine = () => {
   const hiddenNumber = getRandomInt(1, arrayLength - 1);
   const answer = String(array[hiddenNumber]);
   array[hiddenNumber] = '..';
-  const forQuestion = array.join('  ');
+  const forQuestion = array.join(' ');
   const question = forQuestion;
   
   return { answer, question };
