@@ -2,24 +2,37 @@
 [![Actions Status](https://github.com/MlkProduction/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/MlkProduction/frontend-project-lvl1/actions)
 <a href="https://codeclimate.com/github/codeclimate/codeclimate/maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability" /></a>
 
-[BRAIN-GAMES] Поприветствуйте пользователя в игре. Спросите у пользователя его имя и поприветствуйте его по имени:
-[![asciicast](https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC.png)](https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC)
+### Приветствие!
+Запуск игры: `$ brain-games`
+Приветстие пользователя в игре:
+[![asciicast](https://asciinema.org/a/LH29z88eBYpVq3FjUbWMcKa2Y.png)](https://asciinema.org/a/LH29z88eBYpVq3FjUbWMcKa2Y)
+<a href="https://asciinema.org/a/LH29z88eBYpVq3FjUbWMcKa2Y"></a>
 
-<a href="https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC"><img src="https://asciinema.org/a/0Gizc2IKKx933GGFWmvORuzPC".png width="350"/></a>
-
+### Проверка на четность!
+Запуск игры: `$ brain-even`  
+Суть игры в следующем: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное:
 [![asciicast](https://asciinema.org/a/iEdhl4IkQtNIDyeoKz8EBt00d.png)](https://asciinema.org/a/iEdhl4IkQtNIDyeoKz8EBt00d)
-<a href="https://asciinema.org/a/iEdhl4IkQtNIDyeoKz8EBt00d"><img src="https://asciinema.org/a/iEdhl4IkQtNIDyeoKz8EBt00d".png width="350"/></a>
+<a href="https://asciinema.org/a/iEdhl4IkQtNIDyeoKz8EBt00d"></a>
 
-
+### Калькулятор!
+Запуск игры: `$ brain-calc`
+ Суть игры в следующем: пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
 [![asciicast](https://asciinema.org/a/fVi0zapmlan3Fw8mSVIzTESEu.png)](https://asciinema.org/a/fVi0zapmlan3Fw8mSVIzTESEu)
-<a href="https://asciinema.org/a/fVi0zapmlan3Fw8mSVIzTESEu"><img src="https://asciinema.org/a/fVi0zapmlan3Fw8mSVIzTESEu".png width="350"/></a>
+<a href="https://asciinema.org/a/fVi0zapmlan3Fw8mSVIzTESEu"></a>
 
- https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r
-
+### Наибольший делитель!
+Запуск игры: `$ brain-gcd`
+ Суть игры в следующем: пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
 [![asciicast](https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r.png)](https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r)
-<a href="https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r"><img src="https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r".png width="350"/></a>
+<a href="https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r"></a>
 
-https://asciinema.org/a/8IIkKWhAUKePBUmT5ibcMHcKw
-
+### Арифмитическая прогрессия!
+Запуск игры: `$ brain-progression`
+ Показываем игроку ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число.
 [![asciicast](https://asciinema.org/a/8IIkKWhAUKePBUmT5ibcMHcKw.png)](https://asciinema.org/a/8IIkKWhAUKePBUmT5ibcMHcKw)
-<a href="https://asciinema.org/a/8IIkKWhAUKePBUmT5ibcMHcKw"><img src="https://asciinema.org/a/8IIkKWhAUKePBUmT5ibcMHcKw".png width="350"/></a>
+<a href="https://asciinema.org/a/8IIkKWhAUKePBUmT5ibcMHcKw"></a>
+
+### Ищем простое число!
+Запуск игры: `$ brain-prime`
+[![asciicast](https://asciinema.org/a/o0D96n33oCkpdydiB53S9j98A.png)](https://asciinema.org/a/8IIkKWhAUKePBUmT5ibcMHcKw)
+<a href="https://asciinema.org/a/o0D96n33oCkpdydiB53S9j98A"></a>

@@ -15,8 +15,9 @@ if (num % i === 0) {
 }
 return num > 1;
 };
-const forQuestion = getRandomInt(1, 100);
+
 export const gamesEngine = () => { 
+const forQuestion = getRandomInt(1, 100);
 const question = forQuestion;
 const answer = primeNumber(question) ? 'yes' : 'no';
 
