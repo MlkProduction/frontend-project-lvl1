@@ -18,7 +18,8 @@ const description = 'Find the greatest common divisor of given numbers.';
     export const gamesEngine = () => { 
       const randomNumber1 = getRandomInt(0, 11);
       const randomNumber2 = getRandomInt(0, 11);
-     const question = `${randomNumber1} ${randomNumber2}`;
+     const forQuestion = `${randomNumber1} ${randomNumber2}`;
+     const question = forQuestion;
      const result = gcd(randomNumber1, randomNumber2);
      const answer = result.toString();
     return { answer, question };
