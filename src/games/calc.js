@@ -1,13 +1,20 @@
 import readlineSync from 'readline-sync';
+
 console.log('Welcome to the Brain Games!');
 export const userName = readlineSync.question('May I have your name? : ');
 console.log(`Hello, ${userName}!`);
+
+
 const getRandomInt = (max) => {
     return Math.floor(Math.random() * max);
   }; 
 export const randomNumbers = () => {
 console.log('What is the result of the expression?')
 for (let i = 0; i < 3; i += 1) {
+
+
+
+   
   const randomNumber1 = getRandomInt(100);
   const randomNumber2 = getRandomInt(100);
 const randomOperator = ['+', '-', '*'];
