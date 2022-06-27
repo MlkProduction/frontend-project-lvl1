@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
 console.log('Welcome to the Brain Games!');
-export const userName = readlineSync.question('May I have your name?');
+export const userName = readlineSync.question('May I have your name? : ');
 console.log(`Hello, ${userName}!`);
 
 const getRandomInt = (max) => {
@@ -11,8 +11,6 @@ const getRandomInt = (max) => {
 export const randomNumbers = () => {
     // задаем рандомное число
   
-
-
 console.log('What is the result of the expression?')
 for (let i = 0; i < 3; i += 1) {
   const randomNumber1 = getRandomInt(100);

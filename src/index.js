@@ -3,13 +3,13 @@ import readlineSync from 'readline-sync';
 
 const gameСounter = 3;
 
-const gamesBrain = (description, gamesProgression) => {
+const gameLogic = (description, gamesEngine) => {
   console.log('Welcome to the Brain Games!');
   const name = readlineSync.question('May I have your name? : ');
   console.log(`Hello ${name}!`);
   console.log(description);
   for (let i = 1; i <= gameСounter; i += 1) {
-    const { answer, question } = gamesProgression();
+    const { answer, question } = gamesEngine();
     console.log(question);
     const userAnswer = readlineSync.question('Your answer: ');
     if (answer === userAnswer) {
@@ -23,4 +23,4 @@ const gamesBrain = (description, gamesProgression) => {
   console.log(`Congratulations, ${name}!`);
 };
 
-export default gamesBrain;
+export default gameLogic;

@@ -6,8 +6,9 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 # PARTICULAR PURPOSE.
 
 # This program built for i386-apple-darwin11.3.0
+ 
 
-# Make data base, printed on Sun Jun 26 10:32:01 2022
+# Make data base, printed on Mon Jun 27 13:33:06 2022
 
 # Variables
 
@@ -36,7 +37,7 @@ MAKEFILE_LIST :=  Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/gd/k2gksd5s3qj4ft8tg32xrn8r0000gn/T/vscode-ipc-f49ec24f-ff79-4e63-b1ae-fd0fd0b2caff.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/gd/k2gksd5s3qj4ft8tg32xrn8r0000gn/T/vscode-ipc-e423024b-dea0-4c45-b6a4-10d23adc8533.sock
 # environment
 VSCODE_CWD = /
 # environment
@@ -48,7 +49,7 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.DxU4hLymkh/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.YxS8yjasAn/Listeners
 # automatic
 %F = $(notdir $%)
 # environment
@@ -130,7 +131,7 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 1637
+VSCODE_PID = 746
 # variable set hash-table stats:
 # Load=60/1024=6%, Rehash=0, Collisions=1/84=1%
 
@@ -149,6 +150,14 @@ VSCODE_PID = 1637
 # No implicit rules.
 
 # Files
+
+brain-prime:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  commands to execute (from `Makefile', line 18):
+	node bin/brain-prime.js
+	
 
 # Not a target:
 all:
@@ -184,7 +193,7 @@ brain-games:
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
-#  Last modified 2022-06-23 13:32:51
+#  Last modified 2022-06-26 11:24:56
 #  File has been updated.
 #  Successfully updated.
 # variable set hash-table stats:
@@ -245,7 +254,7 @@ install:
 	
 
 # files hash-table stats:
-# Load=12/1024=1%, Rehash=0, Collisions=0/24=0%
+# Load=13/1024=1%, Rehash=0, Collisions=0/25=0%
 # VPATH Search Paths
 
 # No `vpath' search paths.
@@ -257,7 +266,7 @@ install:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sun Jun 26 10:32:01 2022
+# Finished Make data base on Mon Jun 27 13:33:06 2022
 
  
 make: *** No rule to make target `all'.  Stop.
