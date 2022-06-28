@@ -24,14 +24,18 @@ export const randomNumbers = () => {
         break;
       case '*':
         result = randomNumber1 * randomNumber2;
+        break;
+      default:
+        break;
     }
     const again = result.toString();
     console.log('Question:', question);
     const answerUser = readlineSync.question('Your answer: ');
-    if (answerUser === again) {
+      if (answerUser === again) {
       console.log('Correct!');
     } else {
-     return console.log(`"${answerUser}" is wrong answer ;(. Correct answer was "${result}".\nLet's try again, ${userName}!`);    }
-  }
+    return console.log(`"${answerUser}" is wrong answer ;(. Correct answer was "${result}".\nLet's try again, ${userName}!`); 
+    }
+   }
   console.log(`Congratulations, ${userName}!`);
 };

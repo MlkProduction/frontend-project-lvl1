@@ -5,7 +5,7 @@ export const userName = readlineSync.question('May I have your name? : ');
 console.log(`Hello, ${userName}!`);
 // Определение функции, дающее рандомное целое число
 const getRandomInt = (max) => Math.floor(Math.random() * max);
-  // Определение функции игры на четность
+// Определение функции игры на четность
 export const evenGame = () => {
   console.log('Answer "yes" if the number is even, otherwise answer "no".');
   for (let i = 0; i < 3; i += 1) {
