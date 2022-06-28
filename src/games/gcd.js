@@ -1,5 +1,6 @@
 import { getRandomInt } from '../randomnum.js';
 import gameLogic from '../index.js';
+
 const description = 'Find the greatest common divisor of given numbers.';
 const gcd = (x, y) => {
   if (y > x) {
