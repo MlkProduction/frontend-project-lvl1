@@ -11,7 +11,7 @@ const gcd = (x, y) => {
   }
   return gcd(y, x % y);
 };
-export const gamesEngine = () => { 
+export const gamesEngine = () => {
   const randomNumber1 = getRandomInt(0, 11);
   const randomNumber2 = getRandomInt(0, 11);
   const forQuestion = `${randomNumber1} ${randomNumber2}`;
