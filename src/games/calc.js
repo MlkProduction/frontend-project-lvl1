@@ -5,7 +5,7 @@ export const userName = readlineSync.question('May I have your name? : ');
 
 console.log(`Hello, ${userName}!`);
 
-const getRandomInt = (max) => { return Math.floor(Math.random() * max) };
+const getRandomInt = (max) => Math.floor(Math.random() * max);
 export const randomNumbers = () => {
   console.log('What is the result of the expression?');
   for (let i = 0; i < 3; i += 1) {
@@ -24,16 +24,14 @@ export const randomNumbers = () => {
         break;
       case '*':
         result = randomNumber1 * randomNumber2;
-      }
+    }
     const again = result.toString();
     console.log('Question:', question);
     const answerUser = readlineSync.question('Your answer: ');
     if (answerUser === again) {
       console.log('Correct!');
-    }
-    else { 
-     return console.log(`"${answerUser}" is wrong answer ;(. Correct answer was "${result}".\nLet's try again, ${userName}!`);
-    }
+    } else {
+     return console.log(`"${answerUser}" is wrong answer ;(. Correct answer was "${result}".\nLet's try again, ${userName}!`);    }
   }
   console.log(`Congratulations, ${userName}!`);
 };

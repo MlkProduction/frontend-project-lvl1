@@ -1,5 +1,5 @@
 import { getRandomInt } from '../randomnum.js';
-import gameLogic from '../index.js'; 
+import gameLogic from '../index.js';
 
 // Опеределение функции
 const description = 'What number is missing in the progression?';

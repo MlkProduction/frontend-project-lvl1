@@ -3,9 +3,9 @@ import gameLogic from '../index.js';
 // Определение функции
 const description = 'Answer "yes" if given number is prime. Otherwise answer "no".'; // условия
 const primeNumber = (num) => {
-  for (let i = 2; i < num; i = i + 1) {
+  for (let i = 2; i < num; i += 1) {
     if (num % i === 0) {
-     return false;
+      return false;
     }
   }
   return num > 1;
