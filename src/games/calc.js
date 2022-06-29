@@ -37,5 +37,5 @@ export const randomNumbers = () => {
     return console.log(`"${answerUser}" is wrong answer ;(. Correct answer was "${result}".\nLet's try again, ${userName}!`); 
     }
    }
-  console.log(`Congratulations, ${userName}!`);
+ return console.log(`Congratulations, ${userName}!`);
 };
