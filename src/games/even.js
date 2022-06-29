@@ -21,5 +21,5 @@ export const evenGame = () => {
       return console.log(`"${answerUser}" is wrong answer ;(. Correct answer was '${opposite}'.\nLet's try again, ${userName}!`);
     }
   }
- return console.log(`Congratulations, ${userName}!`);
+  return console.log(`Congratulations, ${userName}!`);
 };
