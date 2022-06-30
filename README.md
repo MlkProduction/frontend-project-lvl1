@@ -56,7 +56,7 @@
 
  Показываем игроку ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число.
 
-[![asciicast](https://asciinema.org/a/5IzW1hIX6kgwoCqIMcPGfgOfbpng)](https://asciinema.org/a/5IzW1hIX6kgwoCqIMcPGfgOfb)
+[![asciicast](https://asciinema.org/a/5IzW1hIX6kgwoCqIMcPGfgOfb.png)](https://asciinema.org/a/5IzW1hIX6kgwoCqIMcPGfgOfb)
 <a href="https://asciinema.org/a/5IzW1hIX6kgwoCqIMcPGfgOfb"></a>
 
 ### Проверка на четность!
