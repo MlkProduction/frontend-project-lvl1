@@ -3,7 +3,7 @@
 
 <a href="https://codeclimate.com/github/MlkProduction/frontend-project-lvl1/ maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability"/></a>
 
-[![Node CI](https://github.com/MlkProduction/frontend-project-lvl1/workflows/nodejs.yml/badge.svg)](https://github.com/MlkProduction/frontend-project-lvl1/actions)
+[![Node CI](https://github.com/MlkProduction/frontend-project-lvl1/workflows/Node%20CI/badge.svg)](https://github.com/MlkProduction/frontend-project-lvl1/actions)
 
 ##  Ментор [Aidar Shaikhutdinov](https://ru.hexlet.io/u/makewebspace)
 

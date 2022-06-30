@@ -23,3 +23,4 @@ export const startGame = () => {
   }
   return console.log(`Congratulations, ${userName}!`);
 };
+export default startGame;
