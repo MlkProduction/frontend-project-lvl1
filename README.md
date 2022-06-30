@@ -3,8 +3,6 @@
 
 <a href="https://codeclimate.com/github/MlkProduction/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/77e25528ba1c3954cdb2/maintainability" /></a>
 
-<a href="https://codeclimate.com/github/MlkProduction/frontend-project-lvl1/test_coverage"><img src="https://api.codeclimate.com/v1/badges/77e25528ba1c3954cdb2/test_coverage" /></a>
-
 [![Node CI](https://github.com/MlkProduction/frontend-project-lvl1/workflows/Node%20CI/badge.svg)](https://github.com/MlkProduction/frontend-project-lvl1/actions)
 
 ##  Ментор [Aidar Shaikhutdinov](https://ru.hexlet.io/u/makewebspace)
@@ -31,8 +29,8 @@
 
 Приветстие пользователя в игре:
 
-[![asciicast](https://asciinema.org/a/LH29z88eBYpVq3FjUbWMcKa2Y.png)](https://asciinema.org/a/LH29z88eBYpVq3FjUbWMcKa2Y)
-<a href="https://asciinema.org/a/LH29z88eBYpVq3FjUbWMcKa2Y"></a>
+[![asciicast](https://asciinema.org/a/ukZGeTzhQ0wVYxZCVuhCrlK61.png)](https://asciinema.org/a/ukZGeTzhQ0wVYxZCVuhCrlK61)
+<a href="https://asciinema.org/a/ukZGeTzhQ0wVYxZCVuhCrlK61"></a>
 
 ### Калькулятор!
 
@@ -40,8 +38,8 @@
 
  Суть игры в следующем: пользователю показывается случайное математическое выражение, например 35 + 16, которое нужно вычислить и записать правильный ответ.
  
-[![asciicast](https://asciinema.org/a/iEdhl4IkQtNIDyeoKz8EBt00d.png)](https://asciinema.org/a/iEdhl4IkQtNIDyeoKz8EBt00d)
-<a href="https://asciinema.org/a/iEdhl4IkQtNIDyeoKz8EBt00d"></a>
+[![asciicast](https://asciinema.org/a/J6fsqRZbWfK6gOfWi6SZEaXHE.png)](https://asciinema.org/a/J6fsqRZbWfK6gOfWi6SZEaXHE)
+<a href="https://asciinema.org/a/J6fsqRZbWfK6gOfWi6SZEaXHE"></a>
 
 ### Наибольший делитель!
 
@@ -49,8 +47,8 @@
 
  Суть игры в следующем: пользователю показывается два случайных числа, например, 25 50. Пользователь должен вычислить и ввести наибольший общий делитель этих чисел.
 
-[![asciicast](https://asciinema.org/a/fVi0zapmlan3Fw8mSVIzTESEu.png)](https://asciinema.org/a/fVi0zapmlan3Fw8mSVIzTESEu)
-<a href="https://asciinema.org/a/fVi0zapmlan3Fw8mSVIzTESEu"></a>
+[![asciicast](https://asciinema.org/a/y6AQlVVPez0XIi5SCgEFTdVYe.png)](https://asciinema.org/a/y6AQlVVPez0XIi5SCgEFTdVYe)
+<a href="https://asciinema.org/a/y6AQlVVPez0XIi5SCgEFTdVYe"></a>
 
  ### Арифмитическая прогрессия!
 
@@ -58,8 +56,8 @@
 
  Показываем игроку ряд чисел, образующий арифметическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число.
 
-[![asciicast](https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r.png)](https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r)
-<a href="https://asciinema.org/a/lEbPJMXbYltZiGJhTI9e5Om9r"></a>
+[![asciicast](https://asciinema.org/a/5IzW1hIX6kgwoCqIMcPGfgOfbpng)](https://asciinema.org/a/5IzW1hIX6kgwoCqIMcPGfgOfb)
+<a href="https://asciinema.org/a/5IzW1hIX6kgwoCqIMcPGfgOfb"></a>
 
 ### Проверка на четность!
 
@@ -67,8 +65,8 @@
 
 Суть игры в следующем: пользователю показывается случайное число. И ему нужно ответить yes, если число чётное, или no — если нечётное:
 
-[![asciicast](https://asciinema.org/a/tIS62AvvuBdzej6MR6EcFhENJ.png)](https://asciinema.org/a/tIS62AvvuBdzej6MR6EcFhENJ)
-<a href="https://asciinema.org/a/tIS62AvvuBdzej6MR6EcFhENJ"></a>
+[![asciicast](https://asciinema.org/a/PuUGO7g9bS4rF4FKuUvOQouOm.png)](https://asciinema.org/a/PuUGO7g9bS4rF4FKuUvOQouOm)
+<a href="https://asciinema.org/a/PuUGO7g9bS4rF4FKuUvOQouOm"></a>
 
 ### Ищем простое число!
 
@@ -76,5 +74,5 @@
 
 Показываем игроку случайное число. Игрок должен определить простое ли это число и ответить "yes", если оно простое или "no" - в ином случае.
 
-[![asciicast](https://asciinema.org/a/o0D96n33oCkpdydiB53S9j98A.png)](https://asciinema.org/a/o0D96n33oCkpdydiB53S9j98A)
-<a href="https://asciinema.org/a/o0D96n33oCkpdydiB53S9j98A"></a>
+[![asciicast](https://asciinema.org/a/HRMJwLChgKTfDV2kCX8di6ohQ.png)](https://asciinema.org/a/HRMJwLChgKTfDV2kCX8di6ohQ)
+<a href="https://asciinema.org/a/HRMJwLChgKTfDV2kCX8di6ohQ"></a>
