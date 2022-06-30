@@ -1,9 +1,9 @@
 {
-  "name": "@hexlet/code",
+  "name": "frontend-project-lvl1",
   "version": "1.0.0",
   "type": "module",
-  "description": "[![Actions Status](https://github.com/MlkProduction/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/MlkProduction/frontend-project-lvl1/actions)",
-  "main": "index.js",
+  "description": "Math lessons for 3rd grade",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,7 +19,7 @@
     "type": "git",
     "url": "git+https://github.com/MlkProduction/frontend-project-lvl1.git"
   },
-  "author": "",
+  "author": "Georgii Malkov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MlkProduction/frontend-project-lvl1/issues"

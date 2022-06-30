@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
-import { randomNumbers } from '../src/games/calc.js';
+import { startGame } from '../src/games/calc.js';
 
-randomNumbers();
+startGame();

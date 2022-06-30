@@ -1,12 +1,12 @@
 import readlineSync from 'readline-sync';
 
 console.log('Welcome to the Brain Games!');
-export const userName = readlineSync.question('May I have your name? : ');
+const userName = readlineSync.question('May I have your name? : ');
 console.log(`Hello, ${userName}!`);
 // Определение функции, дающее рандомное целое число
 const getRandomInt = (max) => Math.floor(Math.random() * max);
 // Определение функции игры на четность
-export const evenGame = () => {
+export const startGame = () => {
   console.log('Answer "yes" if the number is even, otherwise answer "no".');
   for (let i = 0; i < 3; i += 1) {
     const number = getRandomInt(100);
