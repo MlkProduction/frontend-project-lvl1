@@ -1,7 +1,9 @@
 # Учебный проект игры в рамках курса по фронтенду от HEXLET
 [![Actions Status](https://github.com/MlkProduction/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/MlkProduction/frontend-project-lvl1/actions)
 
-<a href="https://codeclimate.com/github/MlkProduction/frontend-project-lvl1/ maintainability"><img src="https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability"/></a>
+<a href="https://codeclimate.com/github/MlkProduction/frontend-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/77e25528ba1c3954cdb2/maintainability" /></a>
+
+<a href="https://codeclimate.com/github/MlkProduction/frontend-project-lvl1/test_coverage"><img src="https://api.codeclimate.com/v1/badges/77e25528ba1c3954cdb2/test_coverage" /></a>
 
 [![Node CI](https://github.com/MlkProduction/frontend-project-lvl1/workflows/Node%20CI/badge.svg)](https://github.com/MlkProduction/frontend-project-lvl1/actions)
 
